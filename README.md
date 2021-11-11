@@ -1,1 +1,1 @@
-# Dio-Jogo-Dino :t-rex:
+# Jogo do Dinossauro (sem Internet) :t-rex:
